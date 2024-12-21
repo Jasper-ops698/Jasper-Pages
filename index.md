@@ -17,5 +17,5 @@ Feel free to check out my projects in the link below. You can leave comments, sh
 
 ## Contact
 I'd love to hear from you! Reach out to me at:
-- Email: [your-email@example.com](mailto:bkitib@gmail.com)
-- Website: [your-website.com](https://jasper-ops698.github.io)
+- Email: [Gmail](mailto:bkitib@gmail.com)
+- Website: [Website](https://jasper-ops698.github.io)
